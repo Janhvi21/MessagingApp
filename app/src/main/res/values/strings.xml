@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">midterm_2018</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="cpassword">Choose Password</string>
+    <string name="rpassword">Repeat Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sendto">Send To :</string>
+    <string name="User">User</string>
+</resources>
